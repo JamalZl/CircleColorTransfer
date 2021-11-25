@@ -1,0 +1,31 @@
+.container .box .yellow-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: yellow;
+}
+
+.container .box .orange-circle {
+  width: 80px;
+  height: 80px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.container .box .red-circle {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.container .drop-zone .bigred-circle {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  right: 350px;
+  top: 15px;
+}
+/*# sourceMappingURL=style.css.map */
